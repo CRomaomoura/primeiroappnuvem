@@ -1,9 +1,6 @@
 { 
-    "require" : {
-
-    },
-    
-    "require-dev" : {
+ "require":{}, 
+ "require-dev" : {
     
     }
 }

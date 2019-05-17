@@ -8,8 +8,14 @@
     <title>Primeiro App</title>
 </head>
 <body>
-   <?php
-   echo "Você é livre para fazer suas escolhas, mas será prisioneiro das consequências";
-   ?> 
+	<form>
+		<fieldset>
+			 <?php
+  			 echo "Você é livre para fazer suas escolhas, mas será prisioneiro das consequências";
+  			 ?> 
+		</fieldset>
+		
+	</form>
+  
 </body>
 </html>

@@ -11,7 +11,7 @@
 	<form>
 		<fieldset>
 			 <?php
-  			 echo "Você é livre para fazer suas escolhas, mas será prisioneiro das consequências";
+  			 echo "<strong>Você é livre para fazer suas escolhas, mas será prisioneiro das consequências </strong>";
   			 ?> 
 		</fieldset>
 		

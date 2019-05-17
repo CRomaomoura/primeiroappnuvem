@@ -9,7 +9,7 @@
 </head>
 <body>
    <?php
-   echo "Essa parte está sendo criada por php";
+   echo "Você é livre para fazer suas escolhas, mas será prisioneiro das consequências";
    ?> 
 </body>
 </html>
